@@ -23,19 +23,22 @@
 
 ## Array / String
 ### Easy
-1. 1768 Merge Strings Alternately\
+1. 1 Two Sum
+    https://leetcode.com/problems/two-sum/description/
+   
+3. 1768 Merge Strings Alternately\
     https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
 
-2. 1071 Greatest Common Divisor of Strings\
+4. 1071 Greatest Common Divisor of Strings\
     https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75
    
-3. 1431 Kids With the Greatest Number of Candies\
+5. 1431 Kids With the Greatest Number of Candies\
     https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
 
-4. 605 Can Place Flowers\
+6. 605 Can Place Flowers\
     https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
 
-5. 3402 Minimum Operations to Make Columns Strictly Increasing\
+7. 3402 Minimum Operations to Make Columns Strictly Increasing\
     https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/description/
 
 
