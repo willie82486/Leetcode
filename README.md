@@ -1,4 +1,5 @@
-# Leetcode
+<!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Two Pointers
 ### Easy
 
@@ -196,7 +197,7 @@
 1. (689) Maximum Sum of 3 Non-Overlapping Subarrays\
 https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/
 
-3. (1639) Number of Ways to Form a Target String Given a Dictionary\
+2. (1639) Number of Ways to Form a Target String Given a Dictionary\
 https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/
 
 
@@ -219,14 +220,4 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 
 ### Hard
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1146-greatest-common-divisor-of-strings](https://github.com/willy82486/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
-## String
-|  |
-| ------- |
-| [1146-greatest-common-divisor-of-strings](https://github.com/willy82486/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
