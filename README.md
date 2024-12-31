@@ -127,7 +127,8 @@
 
 ## Binary Tree - BFS
 ### Easy
-
+1. (104) Maximum Depth of Binary Tree\
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 ### Medium
 
 ### Hard
