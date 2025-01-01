@@ -44,6 +44,9 @@
 
 9. (1422) Maximum Score After Splitting a String\
     https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
+
+10. (1427) Perform String Shifts\
+    https://leetcode.com/problems/perform-string-shifts/description/
    
 ### Medium
 
