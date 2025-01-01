@@ -47,7 +47,11 @@
 
 10. (1427) Perform String Shifts\
     https://leetcode.com/problems/perform-string-shifts/description/
-   
+
+11. (345) Reverse Vowels of a String\
+    https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+
+
 ### Medium
 
 ### Hard
