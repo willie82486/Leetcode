@@ -225,10 +225,12 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 
 <!---LeetCode Topics End-->
 <!---Algorithm/Advanced data structure start-->
+# Algorithm/Advanced data structure
+
 ## Union Find
 
 
 ## Binary Index Tree
 
-## Intervals
+
 <!---Algorithm/Advanced data structure end-->
