@@ -127,9 +127,11 @@
 
 ## Binary Tree - DFS
 ### Easy
-1. (104) Maximum Depth of Binary Tree
+1. (104) Maximum Depth of Binary Tree\
    https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
-   
+2. (872) Leaf-Similar Trees\
+   https://leetcode.com/problems/leaf-similar-trees/description/
+
 ### Medium
 
 ### Hard
@@ -140,8 +142,8 @@
 
 ## Binary Tree - BFS
 ### Easy
-1. (104) Maximum Depth of Binary Tree\
-https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+
+
 ### Medium
 
 ### Hard
