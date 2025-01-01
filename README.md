@@ -42,7 +42,9 @@
 8. (3402) Minimum Operations to Make Columns Strictly Increasing\
     https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/description/
 
-
+9. (1422) Maximum Score After Splitting a String\
+    https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
+   
 ### Medium
 
 ### Hard
@@ -222,3 +224,11 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 ### Hard
 
 <!---LeetCode Topics End-->
+<!---Algorithm/Advanced data structure start-->
+## Union Find
+
+
+## Binary Index Tree
+
+## Intervals
+<!---Algorithm/Advanced data structure end-->
