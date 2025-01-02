@@ -27,31 +27,31 @@
 ## Array / String
 ### Easy
 1. (1) Two Sum\
-    https://leetcode.com/problems/two-sum/description/
+   https://leetcode.com/problems/two-sum/description/
    
 3. (1768) Merge Strings Alternately\
-    https://leetcode.com/problems/merge-strings-alternately/description/
+   https://leetcode.com/problems/merge-strings-alternately/description/
 
 4. (1071) Greatest Common Divisor of Strings\
-    https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
+   https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
    
 6. (1431) Kids With the Greatest Number of Candies\
-    https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
+   https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
 
 7. (605) Can Place Flowers\
-    https://leetcode.com/problems/can-place-flowers/description/
+   https://leetcode.com/problems/can-place-flowers/description/
    
 8. (3402) Minimum Operations to Make Columns Strictly Increasing\
-    https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/description/
+   https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/description/
 
 9. (1422) Maximum Score After Splitting a String\
-    https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
+   https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
 
 10. (1427) Perform String Shifts\
-    https://leetcode.com/problems/perform-string-shifts/description/
+   https://leetcode.com/problems/perform-string-shifts/description/
 
 11. (345) Reverse Vowels of a String\
-    https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+   https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 
 
 ### Medium
@@ -59,13 +59,13 @@
 ### Hard
 
 
-## Array / String
+## Prefix
 ### Easy
 
 
 ### Medium
 1. (2559)Count Vowel Strings in Ranges\
-  https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
+   https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
 
 ### Hard
 
