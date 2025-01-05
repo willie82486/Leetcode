@@ -17,15 +17,13 @@ public:
             }
         }
 
-        string result(n, ' ');
-        int numberOfShifts = 0;
-        for (int i = 0; i < s.size(); i++) {
-            numberOfShifts = (numberOfShifts + diffArray[i]) % 26;  
-            if (numberOfShifts < 0)  numberOfShifts += 26; 
-            result[i] = 'a' + (s[i] - 'a' + numberOfShifts) % 26;
+        int currentShift = 0;
+        for (int i = 0; i < n; i++) {
+            currentShift = (currentShift + diffArray[i]) % 26;
+            s[i] = 'a' + (s[i] - 'a' + currentShift + 26) % 26; 
         }
 
-        return result;
+        return s;
 
     } 
 };
