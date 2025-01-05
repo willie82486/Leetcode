@@ -66,6 +66,8 @@
 ### Medium
 1. (2559)Count Vowel Strings in Ranges\
    https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
+2. (2381) Shifting Letters II\
+   https://leetcode.com/problems/shifting-letters-ii/description/
 
 ### Hard
 
