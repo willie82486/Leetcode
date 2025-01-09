@@ -267,9 +267,54 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 # Advanced Algorithm/Data structure
 
 ## Union Find
+### Easy
+
+### Medium
+
+### Hard
+
 
 
 ## Binary Index Tree
+### Easy
+
+### Medium
+
+### Hard
+
+
+
+
+## KMP Algorithm
+### Easy
+1. (1408) String Matching in an Array
+   https://leetcode.com/problems/string-matching-in-an-array/description/
+   
+### Medium
+
+### Hard
+
+
+
+## Longest Prefix Suffix
+### Easy
+1. (1408) String Matching in an Array
+   https://leetcode.com/problems/string-matching-in-an-array/description/
+   
+### Medium
+
+### Hard
+
+
+
+##  Suffix Trie
+### Easy
+1. (1408) String Matching in an Array
+   https://leetcode.com/problems/string-matching-in-an-array/description/
+   
+### Medium
+
+### Hard
 
 
 <!---Algorithm/Advanced data structure end-->
