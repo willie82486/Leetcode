@@ -1,3 +1,4 @@
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
@@ -139,7 +140,15 @@
 
 ## Trie
 ### Easy
+1. (1408) String Matching in an Array
+   https://leetcode.com/problems/string-matching-in-an-array/description/
+   
+2. (3042) Count Prefix and Suffix Pairs I
+   https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/
 
+3. (2185) Counting Words With a Given Prefix
+   https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
+   
 ### Medium
 
 ### Hard
