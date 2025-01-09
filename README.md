@@ -140,13 +140,13 @@
 
 ## Trie
 ### Easy
-1. (1408) String Matching in an Array
+1. (1408) String Matching in an Array\
    https://leetcode.com/problems/string-matching-in-an-array/description/
    
-2. (3042) Count Prefix and Suffix Pairs I
+2. (3042) Count Prefix and Suffix Pairs I\
    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/
 
-3. (2185) Counting Words With a Given Prefix
+3. (2185) Counting Words With a Given Prefix\
    https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
    
 ### Medium
@@ -296,7 +296,7 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 
 ## KMP Algorithm
 ### Easy
-1. (1408) String Matching in an Array
+1. (1408) String Matching in an Array\
    https://leetcode.com/problems/string-matching-in-an-array/description/
    
 ### Medium
@@ -307,7 +307,7 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 
 ## Longest Prefix Suffix
 ### Easy
-1. (1408) String Matching in an Array
+1. (1408) String Matching in an Array\
    https://leetcode.com/problems/string-matching-in-an-array/description/
    
 ### Medium
@@ -318,7 +318,7 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 
 ##  Suffix Trie
 ### Easy
-1. (1408) String Matching in an Array
+1. (1408) String Matching in an Array\
    https://leetcode.com/problems/string-matching-in-an-array/description/
    
 ### Medium
