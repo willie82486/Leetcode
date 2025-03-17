@@ -181,7 +181,7 @@
 
 ### Medium
 1. (199) Binary Tree Right Side View\
-https://leetcode.com/problems/binary-tree-right-side-view/description/
+   https://leetcode.com/problems/binary-tree-right-side-view/description/
 
 
 ### Hard
@@ -205,6 +205,8 @@ https://leetcode.com/problems/binary-tree-right-side-view/description/
 ### Easy
 
 ### Medium
+1. (1926) Nearest Exit from Entrance in Maze\
+   https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/
 
 ### Hard
 
