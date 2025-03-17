@@ -113,6 +113,8 @@
 
 ## Hash Map / Set
 ### Easy
+1. (2206) Divide Array Into Equal Pairs\
+   https://leetcode.com/problems/divide-array-into-equal-pairs/description/
 
 ### Medium
 1. (1930) Unique Length-3 Palindromic Subsequences\
