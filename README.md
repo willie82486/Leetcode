@@ -207,7 +207,9 @@
 ### Medium
 1. (1926) Nearest Exit from Entrance in Maze\
    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/
-
+2. (994) Rotting Oranges\
+   https://leetcode.com/problems/rotting-oranges/description/
+   
 ### Hard
 
 
