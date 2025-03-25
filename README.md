@@ -203,7 +203,9 @@
 
 ## Graphs - BFS
 ### Easy
-
+1. (101) Symmetric Tree\
+   https://leetcode.com/problems/symmetric-tree/description/
+   
 ### Medium
 1. (1926) Nearest Exit from Entrance in Maze\
    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/
