@@ -217,6 +217,18 @@
 
 
 
+## Binary Search
+### Easy
+1. (374) Guess Number Higher or Lower 
+   https://leetcode.com/problems/guess-number-higher-or-lower/description/
+
+
+### Medium
+
+### Hard
+
+
+
 ## Binary Search Tree
 ### Easy
 
