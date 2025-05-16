@@ -219,12 +219,12 @@
 
 ## Binary Search
 ### Easy
-1. (374) Guess Number Higher or Lower 
+1. (374) Guess Number Higher or Lower 2300. Successful Pairs of Spells and Potions\
    https://leetcode.com/problems/guess-number-higher-or-lower/description/
 
 
 ### Medium
-1. (2300) Successful Pairs of Spells and Potions
+1. (2300) Successful Pairs of Spells and Potions \
    https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description   
 
 ### Hard
