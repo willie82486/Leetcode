@@ -228,6 +228,8 @@
    https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description   
 2. (162) Find Peak Element \
    https://leetcode.com/problems/find-peak-element/description/
+3. (875) Koko Eating Bananas \
+   https://leetcode.com/problems/koko-eating-bananas/description/
 
 ### Hard
 
