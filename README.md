@@ -169,6 +169,8 @@
 ### Medium
 1. (437) Path Sum III\
    https://leetcode.com/problems/path-sum-iii/description/
+2. (1372) Longest ZigZag Path in a Binary Tree\
+   https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/
 
 ### Hard
 
