@@ -357,4 +357,17 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 ### Hard
 
 
+## Floyd's Cycle-Finding Algorithm
+### Easy
+1. (202) Happy Number\
+   https://leetcode.com/problems/happy-number/description/
+   
+### Medium
+
+### Hard
+
+
+### Hard
+
+
 <!---Algorithm/Advanced data structure end-->
