@@ -1,6 +1,6 @@
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Basic Topics
 ## Two Pointers
 ### Easy
 
